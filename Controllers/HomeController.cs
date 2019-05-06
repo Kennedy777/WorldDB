@@ -9,7 +9,7 @@ namespace World.Controllers
       [HttpGet("/")]
       public ActionResult Index()
       {
-        return View(Item.GetAll());
+        return View(City.GetAll());
       }
 
     }

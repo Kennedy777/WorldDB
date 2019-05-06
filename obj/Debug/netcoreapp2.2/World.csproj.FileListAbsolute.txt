@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.csprojAssemblyReference.cache
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.AssemblyInfo.cs
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/World/obj/Debug/netcoreapp2.2/World.RazorAssemblyInfo.cs
